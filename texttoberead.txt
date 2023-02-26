@@ -1,0 +1,132 @@
+Please read this Agreement carefully. It is a legal document that explains your rights and obligations related to your use of the MetaHuman Technology, which includes the MetaHuman Creator cloud-streamed application and related assets and technologies. By accessing or using the MetaHuman Technology, or by otherwise indicating your acceptance of this Agreement, you are agreeing to be bound by the terms of this Agreement. If you do not or cannot agree to the terms of this Agreement, please do not access or use the MetaHuman Technology.
+
+Please review Epic’s Privacy Policy found at https://www.epicgames.com/privacypolicy, which also governs your use of MetaHuman Creator, to understand our practices. Your use of the MetaHuman Technology is also governed by Epic’s Terms of Service, which may be found at https://www.epicgames.com/tos. By accessing or using MetaHuman Technology, you also agree to Epic’s Terms of Service and acknowledge that you have read Epic’s Privacy Policy.
+
+If your primary residence (or primary place of business, if you are a legal entity like a corporation or an academic institution) is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games International S.à r.l., acting through its Swiss branch.
+
+Certain words or phrases are defined to have certain meanings when used in this Agreement. Those words and phrases are defined below in Section 16.
+
+NOTE: THIS AGREEMENT IS SUBJECT TO A WAIVER OF CLASS ACTION RIGHTS, AS DETAILED IN SECTION 11.
+
+1. License Grant
+1.1 License. Epic grants you a personal, non-exclusive, non-transferable, non-sublicensable limited right and license to (a) use MetaHuman Creator and MetaHuman Assets to create Generated Characters and (b) to download Downloaded Characters (the foregoing, collectively, the “License”).
+
+1.2 Downloaded Characters. Downloaded Characters are licensed to you by Epic as MetaHuman Content under the terms of the Epic Content License Agreement. By downloading or using Downloaded Characters, you are agreeing to be bound by the terms of the Epic Content License Agreement. If you do not or cannot agree to the terms of that agreement, do not download or use Licensed Content.
+
+1.3 Restrictions and Limitations.
+
+The rights that Epic grants you under the License are subject to the limitations and other terms of this Agreement, and you may only make use of the License if you comply with all applicable terms.
+
+The License becomes effective on the date you accept this Agreement. The MetaHuman Technology is licensed, not sold, to you under the License. The License does not grant you any title or ownership in the MetaHuman Technology.
+
+While this Agreement is not intended to prevent you from exercising the rights in Downloaded Characters granted to you by Epic under the Epic Content License Agreement, there are certain things you may not do with the MetaHuman Technology. You may not do any of the following with respect to the MetaHuman Technology or any of its parts: (a) copy, reproduce, display, perform, or otherwise use it in a way that is not expressly authorized in this Agreement; (b) sell, rent, lease, license, distribute, or otherwise transfer it; (c) allow a third party to use it); (d) make it available to third parties on a software-as-a-service, hosted service, time-sharing, service bureau or similar basis, (e) reverse engineer, derive source code from, adapt, translate, decompile, or disassemble it, or otherwise attempt to learn the inner workings, structure, algorithms, or ideas underlying it; (f) modify or otherwise prepare derivative works of it; (g) access or use it with a bot or other automated tool; (h) use it to develop any technology or product that is competitive with the MetaHuman Technology or Unreal Engine; (i) download more of the Presets or create or download more Generated Characters than reasonably necessary for your projects; (j) for the purpose of building or enhancing any database or training or testing any artificial intelligence, machine learning, deep learning, neural network or similar technology; (k) incorporate MetaHuman Creator into any product or service; (l) remove, disable, circumvent, or modify any proprietary notice or label or security technology included in it; (m) use it to infringe or violate the rights of any third party, including but not limited to any intellectual property, publicity, or privacy rights; or (n) use, access, download, release, export, or re-export it in violation of any applicable law or regulation or for any unlawful purpose.
+
+In order to access and use MetaHuman Creator and download any Presets or Generated Characters, you must set up an Account. You may not share or allow others to use your Account. You are responsible for the security of your Account. For questions regarding your Account, please go to epicgames.com/help.
+
+2. Compliance
+You will ensure that anyone who gains access to MetaHuman Technology from you, or otherwise uses the same pursuant to the licenses granted to you under this Agreement, complies with the limitations set forth below. If you are a legal entity, references to “you” in this agreement also apply to the User in all cases. Without limiting the foregoing, you will be responsible for each User’s compliance with the terms of this Agreement.
+
+3. Updates and Patches
+Epic does not have any maintenance or support obligations with respect to MetaHuman Technology, nor does Epic have any obligation to continue to make MetaHuman Technology available for access or use.
+
+4. User Generated Content
+Epic may provide functionality permitting you to upload scans and/or other assets to MetaHuman Creator (“UGC”). You hereby grant to Epic a non-exclusive, fully-paid, royalty-free, and revocable license to use the UGC to enable your use of MetaHuman Creator with your UGC. You represent and warrant that (1) neither the UGC nor your use thereof will violate applicable law, (2) you have all necessary rights, permissions, consents, and (if applicable) legal bases to use the UGC (including to provide UGC to Epic, create Generated Characters, and, if applicable, process and transfer personal data) and grant the rights to UGC contemplated by this Agreement, and neither the UGC nor your use thereof will violate or infringe any third party rights, including intellectual property rights or confidentiality, privacy, data protection, image, publicity, or moral rights, and (3) the UGC will not contain any viruses or malicious code or content, such as any software that interferes with, disrupts, damages, or provides unauthorized access to devices, servers, networks or other properties or services of Epic or any third party. Epic reserves the right to remove any UGC in its discretion.
+
+5. Feedback
+If you provide Epic with any Feedback, you hereby grant Epic a non-exclusive, fully-paid, royalty-free, irrevocable, perpetual, transferable, sublicensable license to use, reproduce, distribute, modify, adapt, prepare derivative works based on, publicly perform, publicly display, make, have made, use, sell, offer to sell, import, and otherwise exploit that Feedback for any purposes, for all current and future methods and forms of exploitation in any country.
+
+6. Ownership
+Epic and its licensors own all title, ownership rights, and intellectual property rights in the MetaHuman Technology, and all related data. The MetaHuman, MetaHuman Creator, the MetaHuman Creator logo, and Rig Logic are trademarks or registered trademarks of Epic. All rights granted to you under this Agreement are granted by express license only and not by sale. No license or other rights shall be created hereunder by implication, estoppel, or otherwise, even if necessary or useful to practice or otherwise use Downloaded Characters or your products that incorporate or depict rendered Downloaded Characters. The consideration provided to Epic under this Agreement is only for the License. Any other rights would require an additional license and separate consideration, and nothing in this Agreement requires or will be treated to require Epic to grant any additional licenses.
+
+You and your licensors own all title, ownership rights, and intellectual property rights in the UGC you upload to MetaHuman Creator. Except for your Retained Rights, if any rights vest in you that relate to the MetaHuman Assets or MetaHuman Creator, you hereby assign, and shall assign or procure the assignment of, all such rights to Epic, including by way of assignment of any future copyright. During and after the term of this Agreement, you will take such actions as requested by Epic from time to time (including the execution, acknowledgment and delivery of documents and giving of testimony, and causing its personnel to do the same) to effect, perfect or evidence such assignment and Epic’s ownership of such rights.
+
+With respect to Generated Characters, you acknowledge that other Epic customers may create meshes, textures, hairstyle assets, face rigs, and body rigs with similar or identical looks as the meshes, textures, hairstyle assets, face rigs, and body rigs produced by you with the MetaHuman Technology.
+
+7. Disclaimers and Limitation of Liability
+The MetaHuman Technology is provided on an “as is” and “as available” basis, “with all faults” and without warranty of any kind. Epic, its affiliates, and its and their licensors and service providers (collectively, the “Licensor Parties”) disclaim all representations, warranties and conditions (whether express or implied) with respect to the MetaHuman Technology, including without limitation regarding non-infringement, merchantability, or fitness or suitability for any purpose (whether or not Epic knows or has reason to know of any such purpose), whether arising under law, by reason of custom or usage in the trade, or by course of dealing. The MetaHuman Technology may be subject to planned or unplanned limitations or changes to access, availability, performance, or capacity, which may impact your use or ability to use the MetaHuman Technology without notice. Any allocation of time, seats, availability or other capacity to use the MetaHuman Technology is not guaranteed. Without limiting the foregoing, the Licensor Parties make no warranty that (1) the MetaHuman Technology will operate properly, (2) the operation or availability of the MetaHuman Technology will be uninterrupted or free of bugs, errors, or malware (such as viruses), or (3) any defects in the MetaHuman Technology can or will be corrected. This paragraph will apply to the maximum extent permitted by applicable law.
+
+To the maximum extent permitted by applicable law, the Licensor Parties shall not be liable for any loss of profits or any indirect, incidental, consequential, special, punitive, or exemplary damages arising out of or in connection with this Agreement or MetaHuman Technology, even if a Licensor Party has been advised of the possibility of such damages. Further, to the maximum extent permitted by applicable law, the aggregate liability of the Licensor Parties arising out of or in connection with this Agreement or MetaHuman Technology (including any loss, alteration or corruption of Generated Characters or work in progress) will not exceed One Hundred Dollars (USD $100). These limitations and exclusions regarding damages apply even if any remedy fails to provide adequate compensation.
+
+Notwithstanding the foregoing, some countries, states, provinces or other jurisdictions do not allow the exclusion of certain warranties or the limitation of liability as stated above, so the above terms may not apply to you. Instead, in such jurisdictions, the foregoing exclusions and limitations shall apply only to the extent permitted by the laws of such jurisdictions. Also, you may have additional legal rights in your jurisdiction, and nothing in this Agreement will prejudice the statutory rights that you may have as a consumer of MetaHuman Technology.
+
+8. Indemnification
+You agree to indemnify, pay the defense costs of, and hold harmless Epic, its licensors, its and their affiliates, and its and their employees, officers, directors, agents, contractors, and other representatives from and against all claims, demands, actions, losses, liabilities, and expenses (including attorneys’ fees, costs, and expert witnesses’ fees) that arise from or in connection with (a) any claim that, if true, would constitute a breach by you of this Agreement, (b) any claim that any Generated Character, derivative work or other matter you created, or your exercise of the License, infringes any third party’s confidentiality, image, privacy, data protection or similar rights, intellectual property rights or other proprietary or personal rights, or (c) your gross negligence or willful misconduct. You agree to reimburse Epic on demand for any defense costs incurred by Epic and any payments made or loss suffered by Epic, whether in a court judgment or settlement, based on any matter covered by this Section.
+
+If you are prohibited by law from entering into the indemnification obligation above, then you assume, to the extent permitted by law, all liability for all claims, demands, actions, losses, liabilities, and expenses (including attorneys’ fees, costs and expert witnesses’ fees) that are the stated subject matter of the indemnification obligation above.
+
+9. Termination
+Without limiting any other rights of Epic, this Agreement will terminate automatically without notice if (a) you fail to comply with any terms and conditions of this Agreement or Epic’s Terms of Service or (b) your Epic Content License Agreement is terminated. Upon any termination, the License will automatically terminate, you may no longer exercise any of the rights granted to you by the License.
+
+Sections 1.3 (third paragraph only), 2, and 5-17 will survive any termination of this Agreement.
+
+10. Governing Law and Jurisdiction
+You agree that this Agreement will be deemed to have been made and executed in the State of North Carolina, U.S.A., and any dispute will be resolved in accordance with the laws of North Carolina, excluding that body of law related to choice of laws, and of the United States of America. Any action or proceeding brought to enforce the terms of this Agreement or to adjudicate any dispute must be brought in the Superior Court of Wake County, State of North Carolina or the United States District Court for the Eastern District of North Carolina. You agree to the exclusive jurisdiction and venue of these courts. You waive any claim of inconvenient forum and any right to a jury trial. The Convention on Contracts for the International Sale of Goods will not apply. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this Agreement.
+
+11. Class Action Waiver
+You agree not to bring or participate in a class or representative action, private attorney general action, or collective arbitration related to the MetaHuman Technology or this Agreement. You also agree not to seek to combine any action or arbitration related to the MetaHuman Technology or this Agreement with any other action or arbitration without the consent of all parties to this Agreement and all other actions or arbitrations.
+
+12. U.S. Government Matters
+The MetaHuman Technology is a “Commercial Item” (as defined at 48 C.F.R. §2.101), consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation” (as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable). The MetaHuman Technology is being licensed to U.S. Government end users only as Commercial Items and with only those rights as are granted to other licensees under this Agreement.
+
+You represent and warrant to Epic that you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a “terrorist supporting” country, and that you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+13. Amendments of this Agreement
+Epic may issue an amended Agreement at any time in its discretion by posting the amended Agreement on its website or by providing you with digital access to the amended Agreement through MetaHuman Creator or other means. You are not required to accept the amended Agreement. However, in order to continue using MetaHuman Assets (other than as embodied in the Downloaded Characters you have already downloaded) or MetaHuman Creator, you must accept the amended Agreement. If you do not accept the amended Agreement, you may not use MetaHuman Creator, use any MetaHuman Assets, or download any Generated Characters or Presets after the issuance of that amended Agreement (but this will not terminate your license for the Generated Characters that you downloaded prior to the issuance of the amended Agreement). By continuing to use MetaHuman Assets (other than as embodied in the Downloaded Characters you have already downloaded) or MetaHuman Creator after the amended Agreement becomes effective or otherwise indicating your acceptance of the amended Agreement, you are agreeing to be bound by the terms of the amended Agreement.
+
+14. Assignment
+You may not, without the prior written consent of Epic, assign, transfer, charge, or sub-contract all or any of your rights or obligations under this Agreement, and any attempt without that consent will be null and void. To the extent that a particular restriction on transfer in this Agreement is not enforceable under the law of your country, then this Agreement will be binding on any transferee pursuant to such a transfer. Epic may at any time assign, transfer, charge, or sub-contract all or any of its rights or obligations under this Agreement without notice to you.
+
+15. Data Processing
+Epic is a company with operations around the world. To help provide you with the MetaHuman Technology, Epic and its service providers may process your UGC and Generated Characters on servers and equipment located in the United States or any other countries where Epic or they operate. By using the MetaHuman Technology, you agree to transfers of your UGC and Generated Characters to locations that may be outside your country of residence, including the United States. You acknowledge and agree that, as a condition of using the MetaHuman Technology, you can legally transfer your UGC and Generated Characters to other countries like the United States for the purposes contemplated under this Agreement. If UGC or Generated Characters include personal data of data subjects in the EEA or the United Kingdom, you may be required to enter into a data processing agreement with Epic that includes EU Standard Contractual Clauses. Other jurisdictions may have their own data processing agreement requirements for some parties and types of data. To learn more about data processing agreements that may be available to support your use of MetaHuman Creator, please contact mh-dpa@epicgames.com. Any such data processing agreement entered into by you and Epic will be deemed to be incorporated by reference into this Agreement (including for the purposes of Section 7).
+
+16. Definitions
+As used in this Agreement, the following capitalized words have the following meanings:
+
+“Account” means a user account with a unique ID and associated password selected by you, which enables you to access and use MetaHuman Creator under the License.
+
+“Downloaded Characters” means (i) Generated Characters you have downloaded from MetaHuman Creator or otherwise from Epic via other means and (ii) Presets you have downloaded from MetaHuman Creator or otherwise from Epic via other means.
+
+“Epic Content License Agreement” means the Epic Content License Agreement accessible at https://www.unrealengine.com/eula/content.
+
+“Feedback” means any feedback or suggestions that you provide to Epic regarding the MetaHuman Technology or other Epic products and services.
+
+“Generated Characters” mean digital human characters created by your use of MetaHuman Creator with MetaHuman Assets and/or UGC under the terms of this Agreement.
+
+“Epic” means, depending on the location of your primary residence or primary place of business:
+
+a. Epic Games, Inc., a Maryland Corporation having its principal business offices at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.; or
+
+b. Epic Games International S.à r.l., a Luxembourg Société à Responsibilité Limitée, located at Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Grand-Duchy of Luxembourg, acting through its Swiss branch, having its principal business offices at D4 Platz 10, 6039 Root, Switzerland.
+
+“MetaHuman Assets” means digital human characters and their face, body, and clothing meshes and textures, hairstyle assets, body rigs, face rigs, and other features created by or on behalf of Epic and provided by Epic to you as an authorized licensee of MetaHuman Creator, including Presets.
+
+“MetaHuman Creator” means Epic’s proprietary software, development tools, and platforms that enable the creation and animation of digital characters and their face, body, and clothing meshes and textures, hairstyle assets, body rigs, face rigs, and other features. MetaHuman Creator also includes, without limitation, plugins and web interfaces that Epic makes available to you for the purpose of creating Generated Characters, the MetaHuman Identity Pool and Rig Logic.
+
+“MetaHuman Identity Pool” means a database made of MetaHuman Assets, stored in Epic’s proprietary format.
+
+“MetaHuman Technology” means the MetaHuman Assets, MetaHuman Creator and the Generated Characters (excluding UGC and Retained Rights).
+
+“Presets” mean digital human characters created by or on behalf of Epic and provided by Epic to you as an authorized licensee of MetaHuman Creator. Presets may be made available to you via MetaHuman Creator or otherwise from Epic via other means.
+
+“Retained Rights” means your copyrights, trademark rights and publicity rights in UGC subsisting before you upload it to MetaHuman Creator . However, Retained Rights do not include copyrights, patent rights or other intellectual property rights in MetaHuman Creator (including Rig Logic), all of which are and will be owned exclusively by Epic.
+
+“Rig Logic” means Epic’s proprietary technology known as “Rig Logic” (or such other name as designated by Epic from time to time) applied to, and embedded in, face rigs. Rig Logic includes sets of rules that help face rigs achieve a more life-like performance. Rig Logic is embedded in face rigs.
+
+“Unreal Engine” means the proprietary computer software program known as the Unreal® Engine and any updates or upgrades to the program made available by Epic.
+
+“User” means an individual who is an employee or contractor of you or your affiliate.
+
+“You,” “your” or “yourself”, whether or not capitalized in this Agreement, means you as an individual or the legal entity exercising rights under this Agreement through you.
+
+17. Miscellaneous
+This Agreement constitutes the entire agreement between you and Epic relating to the subject matter covered by this Agreement. All other communications, proposals, and representations with respect to the subject matter covered by this Agreement are excluded.
+
+The original of this Agreement is in English; any translations are provided for reference purposes only. You waive any right you may have under the law of your country to have this Agreement written or construed in the language of any other country.
+
+This Agreement describes certain legal rights. You may have other rights under the laws of your jurisdiction. This Agreement does not change your rights under the laws of your jurisdiction if the laws of your jurisdiction do not permit it to do so. Limitations and exclusions of warranties and remedies in this Agreement may not apply to you because your jurisdiction may not allow them in your particular circumstance. In the event that certain provisions of this Agreement are held by a court or tribunal of competent jurisdiction to be unenforceable, those provisions shall be enforced only to the furthest extent possible under applicable law and the remaining terms of this Agreement will remain in full force and effect.
+
+Any act by Epic to exercise, or failure or delay in exercise of, any of its rights under this Agreement, at law or in equity will not be deemed a waiver of those or any other rights or remedies available in contract, at law or in equity.
+
+You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated.
+
+Epic’s obligations are subject to existing laws and legal process, and Epic may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.

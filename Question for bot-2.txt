@@ -1,0 +1,1 @@
+write a program to make an chtbot in python like whenever an question is asked and that machine doesnt know the answer he asks the coder of that program and adds that thing into his meaning and take its phrases and tell the user the answer
