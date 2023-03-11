@@ -1,3 +1,5 @@
+'''JUST AN EXAMPLE OF HOW TO SHOW DIFFERENT CURSORS!!'''
+
 from tkinter import *
 root=Tk()
 cursors =[
